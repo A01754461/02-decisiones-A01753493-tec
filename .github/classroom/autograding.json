@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "02 Licencia",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/02Licencia",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "05 Ordena",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/05Ordena",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "06 BMI",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/06BMI",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "09 Cms a Kms Mts Cms",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/09CmaKmMtCm",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "18 Solo Bisiesto",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/18SoloBisiesto",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    }
+  ]
+}
